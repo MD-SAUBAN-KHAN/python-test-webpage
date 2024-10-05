@@ -7,7 +7,7 @@
 #
 ##################################################
 
-FROM python:alpine3.20
+FROM python:3.11-slim
 
 WORKDIR /webpage
 
